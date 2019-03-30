@@ -1,3 +1,5 @@
-# angular-rxjs-store-grh7ki
+# angular-rxjs-store
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rxjs-store-grh7ki)
+Dan's fork: https://stackblitz.com/edit/angular-store-service
+
+[Edit Original on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rxjs-store-grh7ki)
